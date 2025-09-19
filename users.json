@@ -1,0 +1,43 @@
+{
+    "7172803294": {
+        "lang": "ru",
+        "username": "qwtyau",
+        "first_name": "ㅤ",
+        "last_name": "ㅤ",
+        "active_roles": [
+            "client"
+        ],
+        "client_profile": {
+            "username": "qwtyau",
+            "first_name": "ㅤ",
+            "last_name": "ㅤ",
+            "state_history": [
+                "AWAITING_NAME",
+                "AWAITING_PHONE",
+                "AWAITING_CITY",
+                "AWAITING_AGE",
+                "AWAITING_DRIVING_EXPERIENCE",
+                "AWAITING_LICENSE",
+                "AWAITING_LICENSE_CATEGORY",
+                "AWAITING_DEPOSIT"
+            ],
+            "name": "vfuf",
+            "phone": "+992999999999",
+            "city": "Худжанд",
+            "address": "fdfds9",
+            "dob": "02.02.2002",
+            "driving_experience": "5",
+            "license": "AA2222222",
+            "license_category": "B",
+            "preferred_car_type": "ДВС",
+            "taxi_experience": "Да",
+            "driver_id": "u554",
+            "deposit": "Да",
+            "passport_photo_id": "AgACAgIAAxkBAAJL9mjNHsUVODvPDQEyIoft3dWW1CkWAAIa_jEb2qNpSp_KFIGcdFIgAQADAgADeQADNgQ",
+            "passport_back_photo_id": "AgACAgIAAxkBAAJL9mjNHsUVODvPDQEyIoft3dWW1CkWAAIa_jEb2qNpSp_KFIGcdFIgAQADAgADeQADNgQ",
+            "license_front_photo_id": "AgACAgIAAxkBAAJL9mjNHsUVODvPDQEyIoft3dWW1CkWAAIa_jEb2qNpSp_KFIGcdFIgAQADAgADeQADNgQ",
+            "license_back_photo_id": "AgACAgIAAxkBAAJL9mjNHsUVODvPDQEyIoft3dWW1CkWAAIa_jEb2qNpSp_KFIGcdFIgAQADAgADeQADNgQ"
+        },
+        "status": "active"
+    }
+}

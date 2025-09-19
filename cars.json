@@ -1,0 +1,602 @@
+{
+    "Hyundai Avante": {
+        "description": "Надёжный и экономичный седан, идеален для городской езды по Худжанду.",
+        "local_image_paths": [
+            "images/hyundai_avante.webp",
+            "images/hyundai_avante.webp",
+            "images/hyundai_avante.webp"
+        ],
+        "prices": [
+            250,
+            1500,
+            5000
+        ],
+        "year": 2020,
+        "fuel_type": "Бензин",
+        "engine": "1.6L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Hyundai Sonata": {
+        "description": "Просторный и комфортабельный бизнес-седан с элегантным дизайном и богатым оснащением.",
+        "local_image_paths": [
+            "images/HyundaiSonata.jpg",
+            "images/HyundaiSonata.jpg",
+            "images/HyundaiSonata.jpg"
+        ],
+        "prices": [
+            380,
+            2300,
+            7500
+        ],
+        "year": 2021,
+        "fuel_type": "Бензин",
+        "engine": "2.5L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Hyundai Elantra": {
+        "description": "Стильный и экономичный седан, который отлично подходит как для города, так и для трассы.",
+        "local_image_paths": [
+            "images/HyundaiElantra.jpg",
+            "images/HyundaiElantra.jpg",
+            "images/HyundaiElantra.jpg"
+        ],
+        "prices": [
+            300,
+            1800,
+            6000
+        ],
+        "year": 2022,
+        "fuel_type": "Бензин",
+        "engine": "1.6L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "BYD Song Plus": {
+        "description": "Современный электрический кроссовер с большим запасом хода. Отличный выбор для комфортных поездок.",
+        "local_image_paths": [
+            "images/BYDSongPlus.webp",
+            "images/BYDSongPlus.webp",
+            "images/BYDSongPlus.webp"
+        ],
+        "prices": [
+            380,
+            2280,
+            7600
+        ],
+        "year": 2022,
+        "fuel_type": "Электричество",
+        "engine": "Электромотор 135 кВт",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "BYD Dolphin": {
+        "description": "Компактный и юркий городской электромобиль с уникальным дизайном. Идеален для ежедневных поездок.",
+        "local_image_paths": [
+            "images/BYDDolphin.jpg",
+            "images/BYDDolphin.jpg",
+            "images/BYDDolphin.jpg"
+        ],
+        "prices": [
+            320,
+            1900,
+            6500
+        ],
+        "year": 2023,
+        "fuel_type": "Электричество",
+        "engine": "Электромотор 70 кВт",
+        "transmission": "Автомат",
+        "seats": 5,
+        "telegram_file_ids": [
+            "AgACAgIAAxUHaMfcXsDv8CNcLy3ql1qUo3DaT1cAAvL4MRvC70FKz3rDKNfNxjQBAAMCAAN4AAM2BA",
+            "AgACAgIAAxUHaMfcXsDv8CNcLy3ql1qUo3DaT1cAAvL4MRvC70FKz3rDKNfNxjQBAAMCAAN4AAM2BA",
+            "AgACAgIAAxUHaMfcXsDv8CNcLy3ql1qUo3DaT1cAAvL4MRvC70FKz3rDKNfNxjQBAAMCAAN4AAM2BA"
+        ]
+    },
+    "Toyota Camry": {
+        "description": "Классика надёжности и комфорта. Подходит как для городских условий, так и для дальних поездок.",
+        "local_image_paths": [
+            "images/Toyota-Camry.jpg",
+            "images/Toyota-Camry.jpg",
+            "images/Toyota-Camry.jpg"
+        ],
+        "prices": [
+            360,
+            2160,
+            7200
+        ],
+        "year": 2021,
+        "fuel_type": "Бензин",
+        "engine": "2.5L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Toyota Corolla": {
+        "description": "Легендарная надежность в современном исполнении. Комфортный и экономичный седан на все случаи жизни.",
+        "local_image_paths": [
+            "images/toyotaCorolla.webp",
+            "images/toyotaCorolla.webp",
+            "images/toyotaCorolla.webp"
+        ],
+        "prices": [
+            320,
+            1950,
+            6800
+        ],
+        "year": 2020,
+        "fuel_type": "Бензин",
+        "engine": "1.8L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Toyota Land Cruiser Prado": {
+        "description": "Мощный и проходимый внедорожник для любых дорог. Сочетает в себе комфорт и впечатляющие возможности.",
+        "local_image_paths": [
+            "images/ToyotaPrado.jpg",
+            "images/ToyotaPrado.jpg",
+            "images/ToyotaPrado.jpg"
+        ],
+        "prices": [
+            700,
+            4500,
+            15000
+        ],
+        "year": 2019,
+        "fuel_type": "Дизель",
+        "engine": "2.8L",
+        "transmission": "Автомат",
+        "seats": 7
+    },
+    "Opel Zafira": {
+        "description": "Просторный и практичный минивэн, идеально подходит для семейных поездок или небольших групп.",
+        "local_image_paths": [
+            "images/opel.jpg",
+            "images/opel.jpg",
+            "images/opel.jpg"
+        ],
+        "prices": [
+            280,
+            1680,
+            5600
+        ],
+        "year": 2019,
+        "fuel_type": "Дизель",
+        "engine": "2.0L",
+        "transmission": "Механика",
+        "seats": 7
+    },
+    "Opel Astra": {
+        "description": "Немецкий хэтчбек с точным управлением и комфортной подвеской. Отличный выбор для активной езды.",
+        "local_image_paths": [
+            "images/OpeAstra.jpg",
+            "images/OpeAstra.jpg",
+            "images/OpeAstra.jpg"
+        ],
+        "prices": [
+            300,
+            1750,
+            5800
+        ],
+        "year": 2019,
+        "fuel_type": "Бензин",
+        "engine": "1.4L Turbo",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Mercedes-Benz E-Class": {
+        "description": "Премиальный седан для деловых поездок и особых случаев. Сочетание стиля, комфорта и немецкого качества.",
+        "local_image_paths": [
+            "images/MercedesE-Class.webp",
+            "images/MercedesE-Class.webp",
+            "images/MercedesE-Class.webp"
+        ],
+        "prices": [
+            500,
+            3200,
+            11000
+        ],
+        "year": 2021,
+        "fuel_type": "Бензин",
+        "engine": "2.0L Turbo",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Mercedes-Benz C-Class": {
+        "description": "Компактный представительский седан, сочетающий в себе роскошь старших моделей и спортивный характер.",
+        "local_image_paths": [
+            "images/MercedesC-Class.jpg",
+            "images/MercedesC-Class.jpg",
+            "images/MercedesC-Class.jpg"
+        ],
+        "prices": [
+            450,
+            2900,
+            10000
+        ],
+        "year": 2022,
+        "fuel_type": "Бензин",
+        "engine": "2.0L Turbo",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Mercedes-Benz GLC": {
+        "description": "Универсальный и роскошный кроссовер. Предлагает высокий уровень комфорта как в городе, так и за его пределами.",
+        "local_image_paths": [
+            "images/Mercedes-BenzGLC.png",
+            "images/Mercedes-BenzGLC.png",
+            "images/Mercedes-BenzGLC.png"
+        ],
+        "prices": [
+            650,
+            4200,
+            14000
+        ],
+        "year": 2021,
+        "fuel_type": "Бензин",
+        "engine": "2.0L Turbo",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "BMW 5 Series": {
+        "description": "Динамичный и престижный седан...",
+        "local_image_paths": [
+            "images/BMW5Series.jpg",
+            "images/BMW5Series.jpg",
+            "images/BMW5Series.jpg"
+        ],
+        "telegram_file_ids": [],
+        "prices": [
+            550,
+            3500,
+            12000
+        ],
+        "year": 2020,
+        "fuel_type": "Бензин",
+        "engine": "2.0L TwinPower Turbo",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "BMW 3 Series": {
+        "description": "Эталон управляемости и спортивного духа в классе седанов. Автомобиль для тех, кто любит водить.",
+        "local_image_paths": [
+            "images/BMW3Series.jpg",
+            "images/BMW3Series.jpg",
+            "images/BMW3Series.jpg"
+        ],
+        "prices": [
+            480,
+            3100,
+            10500
+        ],
+        "year": 2021,
+        "fuel_type": "Бензин",
+        "engine": "2.0L TwinPower Turbo",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "BMW X5": {
+        "description": "Большой и мощный кроссовер, который сочетает в себе спортивный характер BMW и практичность SUV.",
+        "local_image_paths": [
+            "images/bmw5.jpg",
+            "images/bmw5.jpg",
+            "images/bmw5.jpg"
+        ],
+        "prices": [
+            800,
+            5000,
+            17000
+        ],
+        "year": 2020,
+        "fuel_type": "Дизель",
+        "engine": "3.0L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Aion S": {
+        "description": "Современный и технологичный электроседан с большим запасом хода. Экономичный и тихий, отличный выбор для города.",
+        "local_image_paths": [
+            "images/AionS.jpg",
+            "images/AionS.jpg",
+            "images/AionS.jpg"
+        ],
+        "prices": [
+            400,
+            2400,
+            8000
+        ],
+        "year": 2023,
+        "fuel_type": "Электричество",
+        "engine": "Электромотор 150 кВт",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Aion Y": {
+        "description": "Футуристичный и просторный компактвэн на электротяге. Необычный дизайн и огромный внутренний простор.",
+        "local_image_paths": [
+            "images/AionY.jpg",
+            "images/AionY.jpg",
+            "images/AionY.jpg"
+        ],
+        "prices": [
+            420,
+            2500,
+            8500
+        ],
+        "year": 2023,
+        "fuel_type": "Электричество",
+        "engine": "Электромотор 135 кВт",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Weltmeister W6": {
+        "description": "Инновационный электрический кроссовер с просторным салоном и богатым оснащением. Идеально подходит для семейных поездок.",
+        "local_image_paths": [
+            "images/WeltmeisterW6.jpeg",
+            "images/WeltmeisterW6.jpeg",
+            "images/WeltmeisterW6.jpeg"
+        ],
+        "prices": [
+            450,
+            2700,
+            9000
+        ],
+        "year": 2022,
+        "fuel_type": "Электричество",
+        "engine": "Электромотор 160 кВт",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Weltmeister EX5": {
+        "description": "Надежный и практичный электрический кроссовер с хорошим запасом хода. Проверенный выбор для семьи.",
+        "local_image_paths": [
+            "images/WeltmeisterEX5.jpg",
+            "images/WeltmeisterEX5.jpg",
+            "images/WeltmeisterEX5.jpg"
+        ],
+        "prices": [
+            430,
+            2600,
+            8800
+        ],
+        "year": 2021,
+        "fuel_type": "Электричество",
+        "engine": "Электромотор 160 кВт",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Kia K5": {
+        "description": "Стильный и современный седан с ярким дизайном и комфортным салоном. Отлично подходит для повседневных поездок.",
+        "local_image_paths": [
+            "images/KiaK5.jpg",
+            "images/KiaK5.jpg",
+            "images/KiaK5.jpg"
+        ],
+        "prices": [
+            350,
+            2100,
+            7000
+        ],
+        "year": 2022,
+        "fuel_type": "Бензин",
+        "engine": "2.0L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Kia Sportage": {
+        "description": "Популярный кроссовер со смелым дизайном и современными технологиями. Универсальный автомобиль для города и путешествий.",
+        "local_image_paths": [
+            "images/KiaSportage.jpg",
+            "images/KiaSportage.jpg",
+            "images/KiaSportage.jpg"
+        ],
+        "prices": [
+            400,
+            2400,
+            8000
+        ],
+        "year": 2022,
+        "fuel_type": "Бензин",
+        "engine": "2.0L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Kia Rio": {
+        "description": "Компактный и надежный седан, один из лидеров в своем классе. Низкий расход топлива и доступная цена аренды.",
+        "local_image_paths": [
+            "images/KiaRio.webp",
+            "images/KiaRio.webp",
+            "images/KiaRio.webp"
+        ],
+        "prices": [
+            280,
+            1600,
+            5500
+        ],
+        "year": 2021,
+        "fuel_type": "Бензин",
+        "engine": "1.6L",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Lexus RX 350": {
+        "description": "Надежный и комфортабельный премиум-кроссовер. Плавность хода и высокое качество материалов делают каждую поездку приятной.",
+        "local_image_paths": [
+            "images/LexusRX350.jpg",
+            "images/LexusRX350.jpg",
+            "images/LexusRX350.jpg"
+        ],
+        "prices": [
+            600,
+            3800,
+            13000
+        ],
+        "year": 2020,
+        "fuel_type": "Бензин",
+        "engine": "3.5L V6",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Lexus ES 350": {
+        "description": "Роскошный седан, известный своим непревзойденным комфортом и плавностью хода. Идеален для дальних поездок.",
+        "local_image_paths": [
+            "images/LexusES350.webp",
+            "images/LexusES350.webp",
+            "images/LexusES350.webp"
+        ],
+        "prices": [
+            580,
+            3700,
+            12500
+        ],
+        "year": 2021,
+        "fuel_type": "Бензин",
+        "engine": "3.5L V6",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Volkswagen Passat": {
+        "description": "Практичный и вместительный немецкий седан. Отличный баланс между комфортом, управляемостью и экономичностью.",
+        "local_image_paths": [
+            "images/VolkswagenPassat.jpg",
+            "images/VolkswagenPassat.jpg",
+            "images/VolkswagenPassat.jpg"
+        ],
+        "prices": [
+            340,
+            2000,
+            6800
+        ],
+        "year": 2019,
+        "fuel_type": "Бензин",
+        "engine": "1.8L TSI",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Volkswagen Jetta": {
+        "description": "Надежный и практичный седан с просторным салоном и большим багажником. Немецкое качество по доступной цене.",
+        "local_image_paths": [
+            "images/VolkswagenJetta.avif",
+            "images/VolkswagenJetta.avif",
+            "images/VolkswagenJetta.avif"
+        ],
+        "prices": [
+            320,
+            1900,
+            6500
+        ],
+        "year": 2020,
+        "fuel_type": "Бензин",
+        "engine": "1.4L TSI",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Volkswagen Tiguan": {
+        "description": "Сбалансированный и технологичный кроссовер. Отличное сочетание комфорта, практичности и управляемости.",
+        "local_image_paths": [
+            "images/VolkswagenTiguan.webp",
+            "images/VolkswagenTiguan.webp",
+            "images/VolkswagenTiguan.webp"
+        ],
+        "prices": [
+            450,
+            2800,
+            9500
+        ],
+        "year": 2020,
+        "fuel_type": "Бензин",
+        "engine": "2.0L TSI",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Audi A6": {
+        "description": "Элегантный бизнес-седан с передовыми технологиями и безупречным интерьером. Подчеркнет ваш статус и обеспечит комфорт.",
+        "local_image_paths": [
+            "images/AudiA6.webp",
+            "images/AudiA6.webp",
+            "images/AudiA6.webp"
+        ],
+        "prices": [
+            520,
+            3300,
+            11500
+        ],
+        "year": 2020,
+        "fuel_type": "Бензин",
+        "engine": "2.0L TFSI",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Audi A4": {
+        "description": "Премиальный седан с выверенным дизайном, высококачественным интерьером и отличной управляемостью.",
+        "local_image_paths": [
+            "images/AudiA4.avif",
+            "images/AudiA4.avif",
+            "images/AudiA4.avif"
+        ],
+        "prices": [
+            490,
+            3150,
+            10800
+        ],
+        "year": 2021,
+        "fuel_type": "Бензин",
+        "engine": "2.0L TFSI",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Audi Q5": {
+        "description": "Стильный и комфортабельный кроссовер премиум-класса. Идеальный баланс между размером, мощностью и технологиями.",
+        "local_image_paths": [
+            "images/AudiQ5.jpg",
+            "images/AudiQ5.jpg",
+            "images/AudiQ5.jpg"
+        ],
+        "prices": [
+            680,
+            4300,
+            14500
+        ],
+        "year": 2020,
+        "fuel_type": "Бензин",
+        "engine": "2.0L TFSI",
+        "transmission": "Автомат",
+        "seats": 5
+    },
+    "Daewoo Gentra": {
+        "description": "Простой, надежный и очень доступный седан. Идеальный 'рабочий' автомобиль, неприхотливый в обслуживании.",
+        "local_image_paths": [
+            "images/DaewooGentra.webp",
+            "images/DaewooGentra.webp",
+            "images/DaewooGentra.webp"
+        ],
+        "prices": [
+            200,
+            1200,
+            4000
+        ],
+        "year": 2018,
+        "fuel_type": "Бензин",
+        "engine": "1.5L",
+        "transmission": "Механика",
+        "seats": 5
+    },
+    "Daewoo Nexia R3": {
+        "description": "Обновленная версия популярного бюджетного седана. Простой, недорогой и экономичный автомобиль для работы.",
+        "local_image_paths": [
+            "images/DaewooNexiaR3.jpg",
+            "images/DaewooNexiaR3.jpg",
+            "images/DaewooNexiaR3.jpg"
+        ],
+        "prices": [
+            220,
+            1300,
+            4200
+        ],
+        "year": 2019,
+        "fuel_type": "Бензин",
+        "engine": "1.5L",
+        "transmission": "Автомат",
+        "seats": 5
+    }
+}
